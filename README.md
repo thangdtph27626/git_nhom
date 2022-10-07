@@ -22,7 +22,7 @@
 
 # 1: github là gì?
 
-github là một hệ thống quản lý dự án và phiên bản code, hoạt động giống như một mạng xã hội cho lập trình viên.
+github là một dịch vụ lưu trữ trên web dành cho các dự án có sử dụng hệ thống kiểm soát Git revision
 
 >  thông tin về GIT:
 
