@@ -172,6 +172,7 @@ Sau đó bạn có thể comment hay đặt tên commit như mình mong muốn. 
 > lưu ý 
 
 mỗi một ngày bạn nên pull code ở nhánh chính và thự hiện fetch trước mỗi lần pull 
+bạn phải commit mỗi lần push code lên 
 
 ![image](https://user-images.githubusercontent.com/109157942/194504044-98ac22df-5f49-4f1e-a034-0f05f3fc6426.png)
 
