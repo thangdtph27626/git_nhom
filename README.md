@@ -94,9 +94,9 @@ bước 2: tạo một một dự án
 
 bước 3: đẩy dự án lên git hub
 
-- bạn tìm vào nơi lưu trữ dự án trên máy click chuột phải chọn git base 
+- bạn tìm vào nơi lưu trữ dự án trên máy click chuột phải chọn git bash 
 
-- thực hiện các câu lệnh sau khi thực hiện bước 1 trên git base 
+- thực hiện các câu lệnh sau khi thực hiện bước 1 trên git bash 
 
 vd:
 
