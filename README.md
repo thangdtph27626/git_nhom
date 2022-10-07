@@ -35,12 +35,11 @@ github là một hệ thống quản lý dự án và phiên bản code, hoạt 
 - Khi làm việc nhóm thì trong team sẽ code chung 1 dự án, và sau mỗi 1 thời gian nhất định thì cần phải thống nhất code  vào 1 project để cho ra 1 sản phẩm cuối cùng.
 
 <div>
-      <table>
-        <thead>
-          <th>Không sử dụng kênh lưu trữ code</th>
-          <th>sử dụng các kênh lưu trữ code</th>
-        </thead>
-      </table>
+  <table>
+    <thead>
+     <th>Không sử dụng kênh lưu trữ code</th>
+       <th>sử dụng các kênh lưu trữ code</th>
+    </thead>
       <tbody>
         <tr>
           <td>Không thống nhất về cách triển khai code</td>
@@ -59,6 +58,7 @@ github là một hệ thống quản lý dự án và phiên bản code, hoạt 
           <td>...</td>
         </tr>
       </tbody>
+    </table>
 </div>
 
 
