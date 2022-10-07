@@ -149,7 +149,7 @@ bạn có thể tải sourcetree để quản lí dự án [tại đây](https:/
 
 click những file cần đẩy lên dự án unstaged files hoặc loại bỏ file cần đẩy lên  staged files
 
-sau khi chọn các file bạn commit những thay đổi của mình và bấm commit > push dự án lên nhánh 
+commit những thay đổi của bạn và bấm commit > push dự án lên nhánh 
 
 sau khi push lên nhánh bạn lên github để tạo một pull resquest
 
