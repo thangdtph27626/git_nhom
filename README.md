@@ -90,6 +90,8 @@ sau khi tạo xong bạn bấm nút create repository
 
 bước 2: tạo một một dự án 
 
+> lưu ý: bạn phải cấu hình email, password trên máy tính hoặc cài đặt ssh trên máy tính của mình [tại đây](https://thangdtph27626.github.io/Git_And_GitHub.github.io/)
+
 ![image](https://user-images.githubusercontent.com/109157942/194497736-f95d28e8-b6a2-4ca6-a54c-c338dca9c962.png)
 
 bước 3: đẩy dự án lên git hub
@@ -145,11 +147,15 @@ bước 7: sau khi code xong mỗi thành viên sẽ đẩy code lên nhánh c�
 
 bạn có thể tải sourcetree để quản lí dự án [tại đây](https://www.sourcetreeapp.com/)
 
+> lưu ý nếu dự án của bạn dùng ssh thì bạn sẽ thực hiện cài đặt sau: tools -> options -> openSSH -> chọn lưu lưu id_rsa trên máy -> ok
 ![image](https://user-images.githubusercontent.com/109157942/194501209-df911f85-d884-4752-b784-4517dd92e140.png)
 
 click những file cần đẩy lên dự án unstaged files hoặc loại bỏ file cần đẩy lên  staged files
 
 commit những thay đổi của bạn và bấm commit > push dự án lên nhánh 
+
+![image](https://user-images.githubusercontent.com/109157942/195606112-6cbe6125-6f1d-4af8-8bfb-1b5aed059b19.png)
+
 
 sau khi push lên nhánh bạn lên github để tạo một pull resquest
 
@@ -176,6 +182,13 @@ bạn phải commit mỗi lần push code lên
 
 ![image](https://user-images.githubusercontent.com/109157942/194504044-98ac22df-5f49-4f1e-a034-0f05f3fc6426.png)
 
+> lưu ý bạn có thể đẩy code lên nhánh của cá nhân lên bằng các câu lệnh sau 
+
+git add . (đẩy tất cả các file lên) hoặc git add tenFile
+
+git commit -M "commit"
+
+git push
 
 
 > Luồng cơ bản để thực hiện git nhóm mà mình đã đúc kết ra được. Các bạn có thể tham khảo qua nhé
