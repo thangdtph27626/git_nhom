@@ -66,7 +66,8 @@ github là một dịch vụ lưu trữ trên web dành cho các dự án có s�
 
 > link đăng kí git hub [tại đây](https://github.com/)
 
-bước 1: tải git về máy tính
+
+### bước 1: tải git về máy tính
 
 bạn có thể tải [tại đây](https://git-scm.com/downloads)
 
@@ -88,13 +89,13 @@ hoặc
 
 sau khi tạo xong bạn bấm nút create repository
 
-bước 2: tạo một một dự án 
+### bước 2: tạo một một dự án 
 
 > lưu ý: bạn phải cấu hình email, password trên máy tính hoặc cài đặt ssh trên máy tính của mình [tại đây](https://thangdtph27626.github.io/Git_And_GitHub.github.io/)
 
 ![image](https://user-images.githubusercontent.com/109157942/194497736-f95d28e8-b6a2-4ca6-a54c-c338dca9c962.png)
 
-bước 3: đẩy dự án lên git hub
+### bước 3: đẩy dự án lên git hub
 
 - bạn tìm vào nơi lưu trữ dự án trên máy click chuột phải chọn git bash 
 
@@ -108,13 +109,13 @@ vd:
  - git add 
     bạn có thể add toàn bộ dự án bằng câu lệnh( git add .) hoặc từng file một bằng ( git add  tenfile )
 
-bước 4: add các thành viên vào dự án 
+### bước 4: add các thành viên vào dự án 
 
 cài đặt >  Collaborators > add people 
 
 bạn thự hiện tìm kiếm và add các thành viên trong nhóm
 
-bước 5 : thực hiện clone dự án về máy 
+### bước 5 : thực hiện clone dự án về máy 
 
 git clone link-du-an
 
@@ -130,7 +131,7 @@ Và đây là thư mục được kéo từ trên git về máy của bạn và 
 
 ![image](https://user-images.githubusercontent.com/109157942/194499954-61ce5061-4a32-44eb-95d2-fe7fb0b590f4.png)
 
-bước 6: mỗi thành viên tạo một branch cho riêng mình 
+### bước 6: mỗi thành viên tạo một branch cho riêng mình 
 
 ![image](https://user-images.githubusercontent.com/109157942/194500173-3bee5b85-38f4-4f7b-a980-da5838fa32cd.png)
 
@@ -143,7 +144,7 @@ git checkout -b "tên branch"
 ![image](https://user-images.githubusercontent.com/109157942/194500577-0c44cde2-7b4c-493d-8543-eaf5a1ad5bf0.png)
 
 
-bước 7: sau khi code xong mỗi thành viên sẽ đẩy code lên nhánh của mình 
+### bước 7: sau khi code xong mỗi thành viên sẽ đẩy code lên nhánh của mình 
 
 bạn có thể tải sourcetree để quản lí dự án [tại đây](https://www.sourcetreeapp.com/)
 
