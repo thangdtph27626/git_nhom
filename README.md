@@ -166,6 +166,14 @@ pull resquest > new pull resquest > chọn nhánh > create pull resquest
 
 tại đây viết những chức năng hay nhứng thay đổi  và chọn create pull resquest 
 
+> lưu ý: không đẩy code lên nhánh chính (main/ master) đẩy theo cấp của nhánh
+
+vd: master -> develop -> develop_thang
+tạo pull sẽ đẩy lên nhánh
+
+develop <- develop_thang 
+master/ main <- develop 
+
 leader của dụ án sẽ merger vào nhánh
 
 
